@@ -1,8 +1,12 @@
 # YouTube-Videoplayer-App
 YT Video Player app made with python
 YouTube Video Player Application
+
 #Installation
-To Install you must download all the compressed files and once downloaded open one of the rar files and extract the exe to your desktop or desired folder. Then simply run the exe to start the youtube app program.
+
+To Install you must download all the compressed files and once downloaded open one of the rar files and extract the exe to your desktop or desired folder. Then run the exe to start the youtube app program.
+
+
 The "YouTube Video Player Application" is a Python program that utilizes the PyQt5 library to create a simple and interactive graphical interface for playing YouTube videos. The application opens a window containing an embedded web view and a "Play Video" button. Its primary functionality is to allow users to watch YouTube videos directly within the application window and start playback from a specified time.
 
 Key Components:
